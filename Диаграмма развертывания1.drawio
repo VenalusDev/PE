@@ -1,0 +1,81 @@
+<mxfile host="Electron" pages="2">
+  <diagram name="Страница-1" id="2aU_jfv7GY7-MRYhnpnp">
+    <mxGraphModel dx="2946" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-1" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="Компьютер" vertex="1">
+          <mxGeometry height="340" width="400" x="214" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-5" edge="1" parent="1" source="1_HcXZDcoVrTJvMKS7Vj-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="1_HcXZDcoVrTJvMKS7Vj-4" value="&amp;lt;&amp;lt;требует&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-1" y="-26" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;executable&amp;gt;&amp;gt;&lt;div&gt;pycharm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="294" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-6" edge="1" parent="1" source="1_HcXZDcoVrTJvMKS7Vj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="1_HcXZDcoVrTJvMKS7Vj-4" value="&amp;lt;&amp;lt;дополняет&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-0.2" y="45" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;library&amp;gt;&amp;gt;&lt;div&gt;PIP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="424" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-10" edge="1" parent="1" source="1_HcXZDcoVrTJvMKS7Vj-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="1_HcXZDcoVrTJvMKS7Vj-8" value="&amp;lt;&amp;lt;работает в&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-0.7071" y="42" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;library&amp;gt;&amp;gt;&lt;div&gt;Интерпретатор Python&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="429" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-9" edge="1" parent="1" source="1_HcXZDcoVrTJvMKS7Vj-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="1_HcXZDcoVrTJvMKS7Vj-8" value="&amp;lt;&amp;lt;требует&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-0.6" y="-36" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;executable&amp;gt;&amp;gt;&lt;div&gt;python.exe&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="294" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="1_HcXZDcoVrTJvMKS7Vj-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;system&amp;gt;&amp;gt;&lt;div&gt;Windows 10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="359" y="675" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KFwTiwqtWFywN5fdaR6U" name="Страница-2">
+    <mxGraphModel dx="3535" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DI58nHkhjf-bPcZCa5NT-4" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="Компьютер" vertex="1">
+          <mxGeometry height="415" width="240" x="294" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="bMh9SepwwHLHfm0f8EJr-1" edge="1" parent="1" source="DI58nHkhjf-bPcZCa5NT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="DI58nHkhjf-bPcZCa5NT-6" value="&amp;lt;&amp;lt;требует&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" y="36" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI58nHkhjf-bPcZCa5NT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;executable&amp;gt;&amp;gt;&lt;div&gt;untitled.py&lt;br&gt;(файл программы)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="176" x="320" y="429.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bMh9SepwwHLHfm0f8EJr-3" edge="1" parent="1" source="DI58nHkhjf-bPcZCa5NT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="bMh9SepwwHLHfm0f8EJr-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMh9SepwwHLHfm0f8EJr-4" connectable="0" parent="bMh9SepwwHLHfm0f8EJr-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;работает в&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0006" y="-1" as="geometry">
+            <mxPoint x="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI58nHkhjf-bPcZCa5NT-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;library&amp;gt;&amp;gt;&lt;div&gt;Интерпретатор Python&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="176" x="320" y="554.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bMh9SepwwHLHfm0f8EJr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;system&amp;gt;&amp;gt;&lt;div&gt;Windows 10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="176" x="320" y="679.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

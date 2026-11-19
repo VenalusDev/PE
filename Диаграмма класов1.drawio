@@ -1,0 +1,109 @@
+<mxfile host="Electron" pages="2">
+  <diagram name="Страница-1" id="ZzdE4JIcz3e5_rNwNkeN">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0JJEar-ahwHMpBzWgsBX-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="PIP" vertex="1">
+          <mxGeometry height="78" width="269" x="140" y="287" as="geometry" />
+        </mxCell>
+        <mxCell id="0JJEar-ahwHMpBzWgsBX-2" parent="0JJEar-ahwHMpBzWgsBX-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ установитьНачальныеБиблиотеки()" vertex="1">
+          <mxGeometry height="26" width="269" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0JJEar-ahwHMpBzWgsBX-3" parent="0JJEar-ahwHMpBzWgsBX-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ проверитьКорректностьУстновки()" vertex="1">
+          <mxGeometry height="26" width="269" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="0JJEar-ahwHMpBzWgsBX-6" edge="1" parent="1" source="Z6qe9Q3s5cCVeFYkWj-U-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0JJEar-ahwHMpBzWgsBX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.67857142857133" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JJEar-ahwHMpBzWgsBX-10" edge="1" parent="1" source="Z6qe9Q3s5cCVeFYkWj-U-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0JJEar-ahwHMpBzWgsBX-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="184.84536082474222" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JJEar-ahwHMpBzWgsBX-7" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="PyInstaller" vertex="1">
+          <mxGeometry height="52" width="269" x="430" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0JJEar-ahwHMpBzWgsBX-8" parent="0JJEar-ahwHMpBzWgsBX-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ УстановитьPython()" vertex="1">
+          <mxGeometry height="26" width="269" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6qe9Q3s5cCVeFYkWj-U-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Установщик pycharm" vertex="1">
+          <mxGeometry height="129" width="230.5" x="300" y="120" as="geometry">
+            <mxRectangle height="30" width="170" x="300" y="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6qe9Q3s5cCVeFYkWj-U-2" parent="Z6qe9Q3s5cCVeFYkWj-U-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ PIP: УстановщикБиблиотек&lt;br&gt;+ PyInstaller: УстановщикPython" vertex="1">
+          <mxGeometry height="43" width="230.5" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6qe9Q3s5cCVeFYkWj-U-3" parent="Z6qe9Q3s5cCVeFYkWj-U-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="230.5" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6qe9Q3s5cCVeFYkWj-U-4" parent="Z6qe9Q3s5cCVeFYkWj-U-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Начать установку()&lt;br&gt;+ Подготовить программу для использования()" vertex="1">
+          <mxGeometry height="52" width="230.5" y="77" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l-G6E5ImHMMgfX6J35RL" name="Страница-2">
+    <mxGraphModel dx="1414" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="skiLPfXFchXzSOCFIQvQ-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="inter" vertex="1">
+          <mxGeometry height="78" width="180" x="100" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="skiLPfXFchXzSOCFIQvQ-2" parent="skiLPfXFchXzSOCFIQvQ-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ ПоказатьОкноВводаЧисла()" vertex="1">
+          <mxGeometry height="26" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="skiLPfXFchXzSOCFIQvQ-3" parent="skiLPfXFchXzSOCFIQvQ-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ СохранениеЧисла(): int" vertex="1">
+          <mxGeometry height="26" width="180" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-1" edge="1" parent="1" source="skiLPfXFchXzSOCFIQvQ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="skiLPfXFchXzSOCFIQvQ-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skiLPfXFchXzSOCFIQvQ-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Программа" vertex="1">
+          <mxGeometry height="115" width="160" x="334" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="skiLPfXFchXzSOCFIQvQ-6" parent="skiLPfXFchXzSOCFIQvQ-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ inter: Интерфейс&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ sys: Система&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ screen: Экран&lt;/p&gt;" vertex="1">
+          <mxGeometry height="55" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="skiLPfXFchXzSOCFIQvQ-7" parent="skiLPfXFchXzSOCFIQvQ-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="skiLPfXFchXzSOCFIQvQ-8" parent="skiLPfXFchXzSOCFIQvQ-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ запуск()" vertex="1">
+          <mxGeometry height="26" width="160" y="89" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-2" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="sys" vertex="1">
+          <mxGeometry height="78" width="180" x="324" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-3" parent="31UEPDWVmkk9HPrYg-Jo-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ СравнитьСНулём(int): bool" vertex="1">
+          <mxGeometry height="26" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-4" parent="31UEPDWVmkk9HPrYg-Jo-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Удвоить(int): int" vertex="1">
+          <mxGeometry height="26" width="180" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-6" edge="1" parent="1" source="skiLPfXFchXzSOCFIQvQ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="31UEPDWVmkk9HPrYg-Jo-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-7" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="screen" vertex="1">
+          <mxGeometry height="78" width="170" x="548" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-8" parent="31UEPDWVmkk9HPrYg-Jo-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ УведомитьОНуле()" vertex="1">
+          <mxGeometry height="26" width="170" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-9" parent="31UEPDWVmkk9HPrYg-Jo-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ ВывестиРезультат(int)" vertex="1">
+          <mxGeometry height="26" width="170" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="31UEPDWVmkk9HPrYg-Jo-11" edge="1" parent="1" source="skiLPfXFchXzSOCFIQvQ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="31UEPDWVmkk9HPrYg-Jo-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

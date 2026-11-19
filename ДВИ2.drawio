@@ -1,0 +1,173 @@
+<mxfile host="Electron" pages="2">
+  <diagram name="Страница-1" id="vBJfbCAOfmbC5DqKs-3Q">
+    <mxGraphModel dx="1178" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-8" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="lt6Q474T-vPhw0c1SB5f-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-40" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="студент&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(я&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="230" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-24" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-25" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="30" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-26" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Скачать&lt;br&gt;Установщик&lt;br&gt;IDE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-12" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-39" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Операционная система" vertex="1">
+          <mxGeometry height="60" width="30" x="570" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-17" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Скачать PyCharm" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-18" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Скачать VSCode" vertex="1">
+          <mxGeometry height="80" width="120" x="460" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-19" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Скачать MS Visual Studio" vertex="1">
+          <mxGeometry height="80" width="120" x="310" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Копировать данные в рабочую папку" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="установить&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Python&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;через установщик&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="200" y="-65" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Произвести первоначальную настройку ПО" vertex="1">
+          <mxGeometry height="80" width="120" x="450" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;include&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-35" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Установить библиотеки NumPy, SciPy" vertex="1">
+          <mxGeometry height="80" width="120" x="570" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;extend&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Установить IDE Python&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-42" edge="1" parent="1" source="lt6Q474T-vPhw0c1SB5f-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="lt6Q474T-vPhw0c1SB5f-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Установить Python распаковкой архива" vertex="1">
+          <mxGeometry height="80" width="140" x="110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6Q474T-vPhw0c1SB5f-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;extend&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="415" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qoo630S0Wqd9tApXFGT9" name="Страница-2">
+    <mxGraphModel dx="975" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c0V7-4eSywSz53YRgmen-1" edge="1" parent="1" source="c0V7-4eSywSz53YRgmen-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" target="c0V7-4eSywSz53YRgmen-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Программа" vertex="1">
+          <mxGeometry height="60" width="30" x="406" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-3" edge="1" parent="1" source="c0V7-4eSywSz53YRgmen-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" target="c0V7-4eSywSz53YRgmen-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-4" edge="1" parent="1" source="c0V7-4eSywSz53YRgmen-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" target="c0V7-4eSywSz53YRgmen-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-5" edge="1" parent="1" source="c0V7-4eSywSz53YRgmen-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" target="c0V7-4eSywSz53YRgmen-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Выполнить набор инструкций" vertex="1">
+          <mxGeometry height="80" width="120" x="361" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Получить число через поле ввода" vertex="1">
+          <mxGeometry height="80" width="120" x="161" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Умножить на 2" vertex="1">
+          <mxGeometry height="80" width="120" x="361" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-9" edge="1" parent="1" source="c0V7-4eSywSz53YRgmen-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" target="c0V7-4eSywSz53YRgmen-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="500" as="sourcePoint" />
+            <mxPoint x="416" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Проверка введённого числа" vertex="1">
+          <mxGeometry height="80" width="120" x="196" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Известить пользователя о результатах выполнения инструкций" vertex="1">
+          <mxGeometry height="90" width="120" x="526" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;include&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="516" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-13" edge="1" parent="1" source="c0V7-4eSywSz53YRgmen-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" target="c0V7-4eSywSz53YRgmen-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Вывести сообщение об ошибке" vertex="1">
+          <mxGeometry height="80" width="120" x="570" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;exclude&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="481" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;include&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="421" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;include&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="316" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="c0V7-4eSywSz53YRgmen-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;include&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="RfEO_xE82WSB_XFVb8gW-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot;&gt;0. Запишите свое ФИО в таблицу группы, создайте облачную папку (индивидуальную или в облачной папке группы, ссылку разместите в ячейке напротив вашей фамилии) 1. Создайте ДВИ вашей работы на первой лабораторной работе по предмету Программирование (преподаватель Васецкий) 3. Создайте ДВИ следующего алгоритма: программа получает через поле ввода число, число удваивается, результат выводится на экран, если введен 0 вывыодится сообщение об этом.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="560" x="670" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
